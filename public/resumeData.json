@@ -11,7 +11,7 @@
     "address": {
       "street": "123 Fake Street",
       "city": "THOTHUKUDI",
-      "state": "INDIA",
+      "country": "INDIA",
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",
